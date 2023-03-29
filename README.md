@@ -17,7 +17,7 @@ Check out [API LIVE DEMO]() here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/DreamHouseProject1/DreamHouse
+git clone https://github.com/SubhamRakshit97/DreamHome
 ```
 2. Backend setting
 ```
